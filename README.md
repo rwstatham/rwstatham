@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Robert <br/> I'm a Masters of Computer Science student at UTD with a focus on Applied Mathematics and Data Science.</h1>
 
-<!--
-**rwstatham/rwstatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Machine Learning Projects:</h2>
 
-Here are some ideas to get you started:
+- [Predicting Round Outcomes In CSGO](https://github.com/rwstatham/Predicting-round-outcome-in-Counter-Strike-Global-Offensive-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>♾️ Applied Mathematics Projects:</h2>
+
+- [Optimizing Substitute hiring using Monte Carlo Simulations](https://github.com/rwstatham/Optimization-Project)
+- [Heat Equation Solver](https://github.com/rwstatham/Heat-Equation-Solver)
+- [Conjugate Gradient Implementation](https://github.com/rwstatham/Conjugate-Gradient-Implementation)
+- [<i>Regula Falsi</i> Implementation](https://github.com/rwstatham/Regula-Falsi-Implementation)
+
